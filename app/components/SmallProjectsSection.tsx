@@ -21,9 +21,9 @@ export const SmallProjectsSection = () => {
 					},
 					{
 					title: 'MooneyBuyBot (Automate de Trading Cryptomonnaies sur Telegram)',
-					description: 'Automate sur l\'application Telegram permettant de suivre le cours en direct de tous les achats d\'une cryptomonnaie afin de se position au bon moment afin un classement organique et non organique pour les différentes blockchains.',
+					description: 'Automate sur l\'application Telegram permettant de suivre les achats d\'une cryptomonnaie ainsi qu\'un classement organique et non organique pour les différentes blockchains utilisant l\'automate.',
 					tasks: [
-						'Création d\'un bot Telegram',
+						'Création d\'un automate Telegram',
 						'Implémentation d\'un système d\'abonnement payant',
 						'Création d\'un système de notification en temps réel',
 						'Mise en place d\'un classement des cryptomonnaies les plus achetées',
