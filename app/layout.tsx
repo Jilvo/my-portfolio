@@ -31,15 +31,15 @@ export const metadata: Metadata = {
 		'Performance Optimization',
 		'Modern Web Development',
 		'Progressive Web Apps',
-		'[Your Name]',
+		'Julien MILLOT',
 	],
-	authors: [{ name: '[Your Name]' }],
-	creator: '[Your Name]',
+	authors: [{ name: 'Julien MILLOT' }],
+	creator: 'Julien MILLOT',
 	openGraph: {
 		title: 'Julien MILLOT - Développeur Python Portfolio',
 		description: 'Passionate web developer crafting modern and engaging digital experiences. Explore my projects and web development expertise.',
 		url: 'https://your-domain.com',
-		siteName: '[Your Name] - Portfolio',
+		siteName: 'Julien MILLOT - Portfolio',
 		images: [
 			{
 				url: '/og-image.jpg',
