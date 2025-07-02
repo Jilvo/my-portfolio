@@ -5,7 +5,7 @@ export const BigProjectsSection = () => {
 	return (
 		<section id="work" className="py-12 sm:py-20 px-4 bg-[#161B22] scroll-mt-20">
 			<div className="max-w-6xl mx-auto">
-				<h2 className="text-2xl sm:text-3xl font-bold mb-8 sm:mb-12 text-center">Projets Grand Comptes</h2>
+				<h2 className="text-2xl sm:text-3xl font-bold mb-8 sm:mb-12 text-center">Projets Grands Comptes</h2>
 				<div className="space-y-8 sm:space-y-12">
 					{[
 						{
