@@ -45,7 +45,7 @@ export const SmallProjectsSection = () => {
 					image: '/cryptallin.png',
 					},
 					{
-					title: 'Avant Garde Coiffure (Salon de Coiffure)',
+					title: 'AvantGarde Coiffure (Salon de Coiffure)',
 					description: 'AvantGarde est un salon de coiffure dans le bassin Lyonnais qui cherche à simplifier la vente en ligne de ses produits ainsi que la présentation de leurs prestations et de la prise de rdv.',
 					tasks: [
 						'Mise en place d\'un site vitrine',
@@ -57,7 +57,7 @@ export const SmallProjectsSection = () => {
 					image: '/avantgarde.jpg',
 					},
 					{
-					title: 'SW 2022 (Politique)',
+					title: 'SW2022 (Politique)',
 					description: 'SW2022 est un site administratif pour une campagne présidentielle de 2022.',
 					tasks: [
 						'Un site administrable par le client',

@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0dabba7a-9e38-429b-bc2b-fb5fb4189982/deploy-status)](https://app.netlify.com/projects/julienmillot/deploys)
 # Personal Portfolio
 
 This repository contains the source code for my personal portfolio, built with Next.js, React, and Tailwind CSS.

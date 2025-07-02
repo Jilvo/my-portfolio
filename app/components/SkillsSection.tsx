@@ -13,7 +13,7 @@ export const SkillsSection = () => {
 								{ name: 'Python', years: 4 },
 								{ name: 'Django', years: 3 },
 								{ name: 'FastAPI', years: 2 },
-								{ name: 'Flask', years: 1 },
+								{ name: 'Flask', years: "1" },
 								{ name: 'Java', years: "< 1" },
 								{ name: 'Spring', years: "< 1" },
 							],
