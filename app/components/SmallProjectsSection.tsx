@@ -30,7 +30,7 @@ export const SmallProjectsSection = () => {
 						'Récupération de toutes les données de la blockchain en direct et mise en place d\'un système de notification en temps réel via du Task Queue',
 					],
 					techStack: ['Python','Linux', 'Celery', 'Redis', 'Docker', 'MongoDB', 'Telegram API'],
-					image: '/snowy.jpg',
+					image: '/snowy_2.png',
 					},
 					{
 					title: 'Cryptallin (Blog Cryptomonnaies)',
@@ -82,15 +82,14 @@ export const SmallProjectsSection = () => {
 					className="object-cover"
 					sizes="(max-width: 768px) 100vw, 50vw"
 				/>
-                <div className="
+				<div
+					className={`
 					absolute inset-0
-					bg-gradient-to-b lg:bg-gradient-to-r
-					from-[#21262D]
-					via-[#21262D]/20 lg:via-[#21262D]/40
-					to-transparent
+					bg-gradient-to-r from-[#21262D]/0 via-[#21262D]/30 to-[#21262D]
 					z-10
-				" />
-              </div>
+					`}
+				/>
+				</div>
 
               {/* Texte à droite */}
               <div className="p-6 w-full lg:w-1/2 space-y-4">
