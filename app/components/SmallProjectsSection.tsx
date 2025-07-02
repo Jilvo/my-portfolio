@@ -20,7 +20,7 @@ export const SmallProjectsSection = () => {
 					image: '/openclassrooms.jpg',
 					},
 					{
-					title: 'SnowyBuyBot (Automate de Trading Cryptomonnaies sur Telegram)',
+					title: 'MooneyBuyBot (Automate de Trading Cryptomonnaies sur Telegram)',
 					description: 'Automate sur l\'application Telegram permettant de suivre le cours en direct de tous les achats d\'une cryptomonnaie afin de se position au bon moment afin un classement organique et non organique pour les différentes blockchains.',
 					tasks: [
 						'Création d\'un bot Telegram',
@@ -30,7 +30,7 @@ export const SmallProjectsSection = () => {
 						'Récupération de toutes les données de la blockchain en direct et mise en place d\'un système de notification en temps réel via du Task Queue',
 					],
 					techStack: ['Python','Linux', 'Celery', 'Redis', 'Docker', 'MongoDB', 'Telegram API'],
-					image: '/snowy_2.png',
+					image: '/mooney.png',
 					},
 					{
 					title: 'Cryptallin (Blog Cryptomonnaies)',
